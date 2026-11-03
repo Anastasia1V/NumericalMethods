@@ -1,0 +1,3 @@
+pi/8 2pi/8 3pi/8 4pi/8
+pi/8 5pi/16 3pi/8 pi/2
+pi/3
